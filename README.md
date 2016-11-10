@@ -1,5 +1,11 @@
 This repo contains some of my favorite insights from DevOps Enterprise Summit 2016.
 
+# Lean Coffee: Tactics for Influencing Executives and Middle Management - Leading Change
+- Empathy with execs: competing priorities, delivering results, engaging workplace, too much work, risks, high rates of change, talent
+- Empathy with middle managers: talent, features vs. technical debt, collaboration, shared outcomes, budget cuts, making the implicit explicit, empowering teams, in-sourcing 
+- Encourage a growth mindset
+- Make work visible (i.e. Kanban)
+
 # How do we break down silos?
 - Seed teams with change agents 
 - Aligning into cross functional product teams w/people from various specialties 
@@ -24,6 +30,7 @@ This repo contains some of my favorite insights from DevOps Enterprise Summit 20
 - People want to look good
 - Trust is a transitive property 
 - Company policies to build trust: are we doing what we said we’d do?
+- You can't fire your way to reliable 
 
 
 # Executive buy-in that Agile/DevOps align to business value
@@ -65,6 +72,7 @@ Hubot design considerations and best practices:
 - Aviod creating a single point of failure 
 - Keep it chat tool agnostic 
 - Reuse code as much as possible 
+
 Security considerations:
 - Express Framework enables basic auth for ports
 - Implement nginx proxy pass for SSL endpoint
@@ -72,3 +80,19 @@ Security considerations:
 - App accounts are safer than personal accounts for integrations 
 - Implement SSO on chat platforms that support it
 - Use the enterprise version of the chat tool
+
+# Lessons Learned Implementing a One Engineering System at Microsoft, Ed Blankenship and Sam Guckenheimer
+- If you have more than about 4 open bugs per engineer, take a break from new features and fix them.
+- Self forming teams. Once per month.  Team leads pitch their projects.  Developers put their 1st, 2nd, 3rd choice teams on stickies.  Team leads sort people into teams.  95% success with getting people into their preferred teams.  Just a few limits, like co-location.
+
+# Nationwide talk, Cindy Payne
+- "GitHub is just better at version control than Subversion"
+- It's also faster and better at merging 
+- "Give teams a half empty tool belt and they'll make their own tools. Then each team becomes a snowflake."
+- "Instead of a plea to standardize, lure them with ease of use and low cost. (Make the "right" thing pleasant and people will do it.)
+- They separated the presentation tier from the business tier and created separate paths to production for each.
+- Being willing to run a test and potentially "miss" was a big psychological barrier they had to work through 
+- It's much more powerful when the practitioners are teaching than when the transformation guy is teaching 
+
+# Capital One talk
+- Our backlog was growing, but our headcount was not
