@@ -37,3 +37,38 @@ This repo contains some of my favorite insights from DevOps Enterprise Summit 20
 
 # Encouraging a more agile workflow across development orgs; managing interdependencies 
 - API contracts
+
+# State of DevOps Report, Gene Kim and Steve Brodie
+High performers have:
+- 200x more frequent deployments 
+- 2,555x shorter change deployment lead times
+- 3x lower change failure rate
+- 24x lower MTTR
+
+# Target talk, Heather Mickman
+- Great things never come from comfort zones
+- Try and fail, but never fail to try
+- Whatever you do, make it great
+- I'm not here to be average, I'm here to be awesome 
+- It's a misconception that changes lead to incidents
+
+# AA Merger Talk, Susanna Brown and Ben Chan
+- The amount of time required to deliver changes goes up exponentially as the % load on the team increases
+- Anyone can add value to any team from anywhere 
+- Automation is the Achilles Heel of DevOps
+
+# ChatOps with Daniel Perez
+Hubot design considerations and best practices:
+- Lightweight: small, on cloud, in Docker
+- Automated build/deploy, tied to SCM
+- Keep it simple
+- Aviod creating a single point of failure 
+- Keep it chat tool agnostic 
+- Reuse code as much as possible 
+Security considerations:
+- Express Framework enables basic auth for ports
+- Implement nginx proxy pass for SSL endpoint
+- Secure Hubot.env and store all ENV variables there
+- App accounts are safer than personal accounts for integrations 
+- Implement SSO on chat platforms that support it
+- Use the enterprise version of the chat tool
