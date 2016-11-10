@@ -96,3 +96,34 @@ Security considerations:
 
 # Capital One talk
 - Our backlog was growing, but our headcount was not
+
+# Damon Edwards
+How to stop burnout and help people thrive
+
+People burnout from:
+- Work overload 
+- Lack of control 
+- Insufficient rewards
+- Breakdown of community 
+- Absence of fairness 
+- Value conflicts
+
+People thrive with:
+- Leveled work
+- Empowered 
+- Sufficient rewards
+- Supportive community 
+- Fairness and transparency 
+- Aligned values 
+
+# Mark Imbriaco
+- Make tiny decisions.  It's ok to not plan too far ahead.  It's easier to make small decisions, and easier to change them when you're wrong.
+- Fight hero culture. Enforce healthy balance.
+- Recovery plans: If you have a plan that you haven't practiced, you don't have a plan.
+- Test your run books monthly (rotating basis).  Get new hires to practice them before they go on call.  Be prescriptive so people don't have to make too many decisions at 2 AM.  
+- During an outage, offload communications to someone, so technical poeple can focus.
+- Learn from your failures and successes, and share the results publicly.
+   - Apologize. And mean it.
+   - Demonstrate a thorough understanding of the problem.
+   - Explain what you're doing to reduce the likelihood of similar problems.  Don't over promise.
+- Collaborate by default.  Visibility is the ultimate compensating control.
