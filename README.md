@@ -128,6 +128,27 @@ People thrive with:
    - Demonstrate a thorough understanding of the problem.
    - Explain what you're doing to reduce the likelihood of similar problems.  Don't over promise.
 - Collaborate by default.  Visibility is the ultimate compensating control.
+- "My plea for empathy as a core value during my keynote a #DOES16 yesterday wasn't just about DevOps. Even more important to me today."  (in the context of the 2016 election results)
 
 # 2016 State of DevOps Report
 - URL: https://puppet.com/resources/whitepaper/2016-state-of-devops-report
+- Continuous Delivery is key to being a high performance organization.
+- "Work in Progress limits" only work in combination with other Lean practices, not in isolation.
+
+# Adrian Cockcroft on Top Technical Talent Programs
+- "Mean time between Vice Presidents should be longer than your project duration."
+- "Conservation of management attention span": remove things that eat into managers' time and add little value.
+
+# Jason Cox, Disney
+- Operational heroics and firefighting lead to inhumane operations and burnout.
+- DevOps adoption was successful; too successful.
+- The Enterprise Strikes Back: overwhelming Scale, Speed and Stability issues due to explosive growth.
+- "If you name servers and give them artisan care, they start to develop personalities."
+- "Leadership requires People, Vision, and Courage."
+- Leadership Challenges: Politics, New Leaders (disruption), Blame Bias.
+- We are at our best when we are helping each other, serving each other, making a positive difference.
+- Help improve the human condition, using technology.
+- The best SLA is the ‘golden rule’ - provide a service level to others that you would want provided to you.
+
+# Domenica DeGrandis Time Theft: How Hidden and Unplanned Work Commit the Perfect Crime
+- Video link: https://t.co/zfp2IdLghR
