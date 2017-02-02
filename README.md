@@ -22,6 +22,7 @@ This repo contains some of my favorite insights from DevOps Enterprise Summit 20
 - Air cover, understand long term impact to people, turn over
 - What are you willing to de-prioritize 
 - Survey to see how people are feeling 
+- Warning sign: if your backlog is growing, but your headcount is not (Aimee Bechtle)
 
 
 # Influence trust, culture
@@ -30,7 +31,7 @@ This repo contains some of my favorite insights from DevOps Enterprise Summit 20
 - People want to look good
 - Trust is a transitive property 
 - Company policies to build trust: are we doing what we said we’d do?
-- You can't fire your way to reliable 
+- You can't fire your way to reliable (David Blank-Edelman)
 
 
 # Executive buy-in that Agile/DevOps align to business value
@@ -127,3 +128,6 @@ People thrive with:
    - Demonstrate a thorough understanding of the problem.
    - Explain what you're doing to reduce the likelihood of similar problems.  Don't over promise.
 - Collaborate by default.  Visibility is the ultimate compensating control.
+
+# 2016 State of DevOps Report
+- URL: https://puppet.com/resources/whitepaper/2016-state-of-devops-report
